@@ -1,6 +1,7 @@
 # HTML_CSS_Javascript_Project
 
 ## echo "# HTML_CSS_Javascript_Project" >> README.md
+```bash
 git init
 git add README.md
 git commit -m "first commit"
